@@ -1,0 +1,40 @@
+leftnav:
+- identifier: e9eb8565-ec3c-c930-33d4-d6fdb829136d
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: aae21bc7-6192-fbe4-757b-da75a5adcfd0
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 992b4fef-d7ac-adf4-88c1-7ee96924f948
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: 24c2df02-b7e5-2853-7538-720da708b8ec
+  name: Course History and Design
+  pageRef: /pages/instructor-insights/course-history-and-design
+  parent: 992b4fef-d7ac-adf4-88c1-7ee96924f948
+  weight: 40
+- identifier: 65dc1681-ea60-78fa-173c-abc940e9c47e
+  name: Cultivating a Comfortable Classroom Culture
+  pageRef: /pages/instructor-insights/cultivating-a-comfortable-classroom-culture
+  parent: 992b4fef-d7ac-adf4-88c1-7ee96924f948
+  weight: 50
+- identifier: 15c449b2-89e7-3517-7162-e826ef8b0d57
+  name: 'Experimenting with a New Discussion Format: The Round Robin'
+  pageRef: /pages/instructor-insights/experimenting-with-a-new-discussion-format-the-round-robin
+  parent: 992b4fef-d7ac-adf4-88c1-7ee96924f948
+  weight: 60
+- identifier: 9bba826a-cd21-557f-90d9-341d62e3315f
+  name: Readings
+  pageRef: /pages/readings
+  weight: 70
+- identifier: 9f9908d7-0653-d301-8f66-c27532139d93
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 80
+- identifier: 5dd8af74-6b8f-539c-28ee-46733dc53124
+  name: Questions for Discussion
+  pageRef: /pages/questions-for-discussion
+  weight: 90
